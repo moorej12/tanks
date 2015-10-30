@@ -13,6 +13,7 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, Scott!\n";
     std::cout << "Hello, Chris";
     std::cout << "Hello, Chrisgasklgd";
+    std::cout << "Hello again, with a .gitignore";
     return 0;
 }
 
