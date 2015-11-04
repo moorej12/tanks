@@ -1,6 +1,19 @@
 
 *.xcuserstate
+*.DS_Store
+*.metadata
+
 
 Test Project/Test Project.xcodeproj/project.xcworkspace/xcuserdata/ScottW.xcuserdatad/UserInterfaceState.xcuserstate
 
 Test Project/Test Project.xcodeproj/project.xcworkspace/xcuserdata/chris.xcuserdatad/UserInterfaceState.xcuserstate
+
+TicTacToe/.metadata/.DS_Store
+
+TicTacToe/.metadata/.log
+
+TicTacToe/.metadata/.plugins/.DS_Store
+
+TicTacToe/.metadata/.plugins/org.eclipse.cdt.core/.log
+
+TicTacToe/.metadata/.plugins/org.eclipse.cdt.core/.log
